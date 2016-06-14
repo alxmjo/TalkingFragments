@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TalkingFragments</string>
+    <string name="show_text">Show Text</string>
+    <string name="hello_fragment">Hello fragment!</string>
+    <string name="send_text">Send Text</string>
+</resources>
